@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+google-generativeai
+python-dotenv
+streamlit
+gtts
+pyttsx3
+flask
+IPython
+
+
