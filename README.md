@@ -1,4 +1,5 @@
-![Full image - 1080 X 1080 (9)](https://github.com/Khushalgogia/Talking_Chatbox/assets/43295537/906515a8-6419-4ed1-9f88-ada03f0785ae)
+![1900 X1080 (2)](https://github.com/Khushalgogia/Talking_Chatbox/assets/43295537/a05e173c-f15a-4171-bb42-d8d7ad8acae6)
+
 
 # ChatBot with Speak Feature
 
